@@ -1,0 +1,16 @@
+{
+    "name": "learasolo/composer2",
+    "description": "Exo 2 composer",
+    "autoload": {
+        "psr-4": {
+            "Learasolo\\Composer2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LEA-RASOLOARISON",
+            "email": "lea.rasoloarison@gmail.com"
+        }
+    ],
+    "require": {}
+}
